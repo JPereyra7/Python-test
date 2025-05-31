@@ -1,0 +1,3 @@
+Hello! Welcome to the world of Python 🐍
+This file is for learning Python and also deepening AI knowledge.
+Good Luck!
