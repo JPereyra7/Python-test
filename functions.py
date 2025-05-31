@@ -1,6 +1,6 @@
 def myFunction(fname):
-    print(fname + " Pereyra Källström")
+    print(fname + " Testsson")
     
-myFunction("Lennox Engel Mikael")
-myFunction("Lovelia Beatrice")
-myFunction("Lio Joel Gabriel")
+myFunction("Erik")
+myFunction("Eloise")
+myFunction("Liam")
